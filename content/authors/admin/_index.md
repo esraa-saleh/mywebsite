@@ -14,7 +14,7 @@ organizations:
   url: ualberta.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI > ML > RL.
+bio: 
 
 # Interests to show in About widget
 interests:
