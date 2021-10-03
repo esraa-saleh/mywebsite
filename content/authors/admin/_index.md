@@ -69,7 +69,7 @@ highlight_name: false
 
 Hi there citizen of the Internet! My name is Esra'a, pleasure to meet you! 
 
-I am a Computer Science Masters student at the University of Albetra. My research interests are broadly in Artificial Intelligence and Machine Learning. More specifically, I am interested in continual learning problems in the context of Model-Based Reinforcement Learning.
+I am a Computer Science Masters student at the University of Albetra. My research interests are broadly in Artificial Intelligence and Machine Learning. I am currently working on a research project on Model-Based Reinfrocement Learning in a continual leanring setting.
 
 Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I like talking to new people, so feel free to reach out. Lets grab a virtual coffee together :)
 
