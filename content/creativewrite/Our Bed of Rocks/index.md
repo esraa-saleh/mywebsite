@@ -40,7 +40,7 @@ categories:
 
 ## The poem 
 
-The physical manifestation of feelings on a journey from rock bottom to the ahcieved reality of a dream.
+The physical manifestation of feelings on a journey from rock bottom to the achieved reality of a dream.
 
 
 ---------------------------------------
