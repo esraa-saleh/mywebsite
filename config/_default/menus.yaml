@@ -4,21 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About me
-    url: '#about'
-    weight: 10
+  # - name: About me
+  #   url: '#about'
+  #   weight: 10
   - name: C.S. Blog
-    url: '#posts'
+    url: 'cs-blog'
     weight: 20
-  - name: Creative Writing
-    url: '#creative-writing'
+  - name: Talks
+    url: 'talks'
     weight: 30
+  - name: Creative Writing
+    url: 'creative-writing'
+    weight: 40
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
+
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
