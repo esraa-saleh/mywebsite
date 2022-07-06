@@ -12,7 +12,7 @@ projects: []
 date: "2021-12-12T00:00:00Z"
 
 # Date updated
-lastmod: "2021-12-12T00:00:00Z"
+# lastmod: "2021-12-12T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,7 +32,7 @@ authors:
 - admin
 
 tags:
-- Academic
+# - Academic
 
 categories:
 - Poetry
