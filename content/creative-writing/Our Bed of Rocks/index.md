@@ -3,7 +3,7 @@ title: Our Bed of Rocks
 subtitle: 
 
 # Summary for listings and search engines
-summary: The physical manifestation of feelings on a journey from rock bottom to the ahcieved reality of a dream.
+summary: The physical manifestation of feelings on a journey from rock bottom to the achieved reality of a dream.
 
 # Link this post with a project
 projects: []
