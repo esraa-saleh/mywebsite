@@ -75,4 +75,6 @@ I am a Computer Science Masters student at the University of Alberta, affiliated
 
 Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I like talking to new people, so feel free to reach out. Lets grab a virtual coffee together :)
 
+**Here's a dedicated [link](https://calendly.com/esraasaleh/open-chats) for scheduling research or career chats**. If no time listed would work for you, email me and we'll come up with other time-slots.
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
