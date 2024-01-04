@@ -126,7 +126,7 @@ I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/e
 
  My interests are broadly in Artificial Intelligence and Machine Learning. I like adopting problems in Representation Learning and Reinforcement Learning. Within a sequential decision making setting, I am currently experimenting with ideas for strong compositional generalization, planning, and long-term decision making.
 
-Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I enjoy talking with new people and learning from their life experience, so feel free to reach out. Lets grab a virtual coffee together :)
+Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I enjoy talking with new people and learning from their life experiences, so feel free to reach out. Lets grab a virtual coffee together :)
 
 **Here's a dedicated [link](https://calendly.com/esraasaleh/open-chats) for scheduling research or career chats**. If no time listed would work for you, email me and we'll come up with other time-slots.
 
