@@ -28,8 +28,8 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
+# authors:
+# - admin
 
 tags:
 - Academic

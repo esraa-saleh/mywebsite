@@ -22,8 +22,8 @@ featured: false
 
 show_date: false
 
-authors:
-- admin
+# authors:
+# - admin
 
 ---
 
