@@ -124,7 +124,7 @@ Hi there citizen of the Internet! My name is Esra'a, pleasure to meet you!
 
 I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/en/) and the [University of Montreal](https://www.umontreal.ca/) working with Dr. [Glen Berseth](https://scholar.google.ca/citations?user=-WZcuuwAAAAJ&hl=en) and Dr. [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en). Prior to that, I completed my Computer Science Masters with Dr. [Michael Bowling](https://scholar.google.ca/citations?user=PYtPCHoAAAAJ&hl=en) at the [University of Alberta](https://www.ualberta.ca/index.html), [AMII](https://www.amii.ca/) and the [RLAI Lab](http://rlai.ualberta.ca/).
 
- My interests are broadly in Artificial Intelligence and Machine Learning. I like adopting problems in Representation Learning and Reinforcement Learning. Within a sequential decision making setting, I am currently experimenting with ideas in generalization, incorporating inductive priors, planning, and long-term decision making.
+ My interests are broadly in Artificial Intelligence and Machine Learning. I like adopting problems in Representation Learning and Reinforcement Learning. I'm fairly obsessed with figuring out how agents can build world models in order to learn and adapt quickly. Within a sequential decision making setting, I am currently experimenting with ideas in, model-based RL, generalization, incorporating inductive priors, planning, and long-term decision making.
 
 Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I enjoy talking with new people and learning from their life experiences, so feel free to reach out. Lets grab a virtual coffee together :)
 
