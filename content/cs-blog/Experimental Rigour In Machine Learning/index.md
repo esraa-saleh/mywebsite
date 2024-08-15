@@ -3,7 +3,7 @@ title: A Compilation of Papers on Experimental Rigour in Machine Learning
 subtitle: 
 
 # Summary for listings and search engines
-summary: A list of papers on scientific methodology mostly in Machine Learning and sometimes with a special focus on Reinforcment Learning. The list was compiled with the help of amazing folks in RLAI.
+summary: A list of papers on scientific methodology mostly in Machine Learning and sometimes with a special focus on Reinforcment Learning. The list was compiled with the help of amazing folks in RLAI at UAlberta and in Mila.
 
 # Link this post with a project
 projects: []
