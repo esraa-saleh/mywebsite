@@ -64,6 +64,9 @@ In the following list, is a compilaton of papers on scientific methoodology and 
 - [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264)
 - [On Bonus Based Exploration Methods In The Arcade Learning Environment](https://arxiv.org/abs/2109.11052)
 - [Rigorous Experimentation For Reinforcement Learning](https://scholarworks.umass.edu/dissertations_2/2760/)
+- [AdaStop: adaptive statistical testing for sound comparisons of Deep RL agents](https://openreview.net/pdf?id=lXyZr9TLEU)
+- [Revisiting Rainbow: Promoting more Insightful and Inclusive Deep Reinforcement Learning Research](https://proceedings.mlr.press/v139/ceron21a/ceron21a.pdf)
+- [On the consistency of hyper-parameter selection in value-based deep reinforcement learning](https://arxiv.org/pdf/2406.17523)
 
 ## Remarks
 Lastly, if you have paper suggestions that we could add to this list, send me an email or open an issue in my website's github repo.
