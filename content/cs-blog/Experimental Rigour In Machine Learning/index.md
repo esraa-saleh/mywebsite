@@ -40,7 +40,7 @@ categories:
 
 ## Overview
 
-In the following list, is a compilaton of papers on scientific methoodology and best practices in Machine Learning with a special focus on Reinforcement Learning sometimes. The intention is to create a strong starting point for folks who are interested in ensuring rigour in their experiments. The list was compiled with help from amazing folks in the RLAI lab.
+In the following list, is a compilaton of papers on scientific methoodology and best practices in Machine Learning with a special focus on Reinforcement Learning sometimes. The intention is to create a strong starting point for folks who are interested in ensuring rigour in their experiments. The list was compiled with the help of amazing folks in Mila and in RLAI at UAlberta.
 
 ## The list
 
