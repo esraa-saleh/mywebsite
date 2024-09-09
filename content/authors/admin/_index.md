@@ -128,6 +128,6 @@ I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/e
 
 Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I enjoy talking with new people and learning from their life experiences, so feel free to reach out. Lets grab a virtual coffee together :)
 
-**Here's a dedicated [link](https://calendly.com/esraasaleh/open-chats) for scheduling research or career chats**. If no time listed would work for you, email me and we'll come up with other time-slots.
+**Here's a dedicated [form](https://docs.google.com/forms/d/e/1FAIpQLSdHZ5uH6cvMZCRxslbORwMvULwr10tkXxHRjnDEN8gFwR93-g/viewform?usp=sf_link) for scheduling research or career chats**. If I'm slow to get to your request sometimes, I hope you would forgive me. I usually get to most requests eventually and I'm deeply committed to being as open to conversation as possible. 
 
 {style="text-align: justify;"}
