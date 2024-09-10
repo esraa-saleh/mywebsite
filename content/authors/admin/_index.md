@@ -126,8 +126,8 @@ I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/e
 
  My interests are broadly in Artificial Intelligence and Machine Learning. I like adopting problems in Representation Learning and Reinforcement Learning. I'm fairly obsessed with figuring out how agents can build world models in order to learn and adapt quickly. Within a sequential decision making setting, I am currently experimenting with ideas in, model-based RL, generalization, incorporating inductive priors, planning, and long-term decision making.
 
-Outside of the world of research, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I enjoy talking with new people and learning from their life experiences, so feel free to reach out. Lets grab a virtual coffee together :)
+Outside of my direct research activities, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I also strongly believe in the principles of open science in all aspects from open collaboration to open data. I currently serve as a [Cohere For AI](https://cohere.com/research) open science community lead to further this cause.
 
-**Here's a dedicated [form](https://docs.google.com/forms/d/e/1FAIpQLSdHZ5uH6cvMZCRxslbORwMvULwr10tkXxHRjnDEN8gFwR93-g/viewform?usp=sf_link) for scheduling research or career chats**. If I'm slow to get to your request sometimes, I hope you would forgive me. I usually get to most requests eventually and I'm deeply committed to being as open to conversation as possible. 
+I enjoy talking with new people and learning from their life experiences, so feel free to reach out. **Here's a dedicated [form](https://docs.google.com/forms/d/e/1FAIpQLSdHZ5uH6cvMZCRxslbORwMvULwr10tkXxHRjnDEN8gFwR93-g/viewform?usp=sf_link) for scheduling research or career chats**. If I'm slow to get to your request sometimes, I hope you would forgive me. I usually get to most requests eventually and I'm deeply committed to being as open to conversation as possible. 
 
 {style="text-align: justify;"}
