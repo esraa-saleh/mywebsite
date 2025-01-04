@@ -128,6 +128,7 @@ I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/e
 
 Outside of my direct research activities, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I also strongly believe in the principles of open science in all aspects from open collaboration to open data. I currently serve as a [Cohere For AI](https://cohere.com/research) open science community lead to further this cause.
 
-I enjoy talking with new people and learning from their life experiences, so feel free to reach out. **Here's a dedicated [form](https://docs.google.com/forms/d/e/1FAIpQLSdHZ5uH6cvMZCRxslbORwMvULwr10tkXxHRjnDEN8gFwR93-g/viewform?usp=sf_link) for scheduling research or career chats**. If I'm slow to get to your request sometimes, I hope you would forgive me. I usually get to most requests eventually and I'm deeply committed to being as open to conversation as possible. 
+
+Note: I used to do research office hours / meetings, but I'm unfortunately currently hitting my capacity because of other commitments. So I'm taking a break for now until I have more volunteering capacity.
 
 {style="text-align: justify;"}
