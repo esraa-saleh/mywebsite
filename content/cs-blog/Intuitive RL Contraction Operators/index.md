@@ -227,6 +227,8 @@ $$
 $$
 {{< /math >}}
 
+{{< video src="ContractionOnLine_v_final.mp4" controls="yes" >}}
+
 ## References
 
 <a id="ref1"></a>[1] S. Mannor, Y. Mansour, and A. Tamar, *Reinforcement Learning: Foundations*. Cambridge, U.K.: Cambridge University Press, 2026. [Online]. Available: [https://sites.google.com/view/rlfoundations/home](https://sites.google.com/view/rlfoundations/home)
