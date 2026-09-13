@@ -122,13 +122,11 @@ highlight_name: false
 
 Hi there citizen of the Internet! My name is Esra'a, pleasure to meet you! 
 
-I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/en/) and the [University of Montreal](https://www.umontreal.ca/) working with Dr. [Glen Berseth](https://scholar.google.ca/citations?user=-WZcuuwAAAAJ&hl=en) and Dr. [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en). Prior to that, I completed my Computer Science Masters with Dr. [Michael Bowling](https://scholar.google.ca/citations?user=PYtPCHoAAAAJ&hl=en) at the [University of Alberta](https://www.ualberta.ca/index.html), [AMII](https://www.amii.ca/) and the [RLAI Lab](http://rlai.ualberta.ca/).
+I am a Computer Science PhD Researcher / Student at [Mila](https://mila.quebec/en/) and the [University of Montreal](https://www.umontreal.ca/). Prior to that, I completed a Computer Science Masters at the [University of Alberta](https://www.ualberta.ca/index.html), [AMII](https://www.amii.ca/) and the [RLAI Lab](http://rlai.ualberta.ca/), as well as a Computer Science Bachelor's with a minor in Math at [Carleton University](https://carleton.ca/).
 
- My interests are broadly in Artificial Intelligence and Machine Learning. I like adopting problems in Representation Learning and Reinforcement Learning. I'm fairly obsessed with figuring out how agents can build world models in order to learn and adapt quickly. Within a sequential decision making setting, I am currently experimenting with ideas in, model-based RL, generalization, incorporating inductive priors, planning, and long-term decision making.
+ My interests are in Artificial Intelligence and Machine Learning. I have been enjoying working on algorithms at the intersection of reinforcement learning, world modelling and exploration. In applications, I like problems that have no known human solutions or problems that have a large potential for social good. Examples include problems in drug discovery, climate change, automated theorem proving in mathematics, agentic dev tools for gaining efficiency, and general robotics for science labs.
 
-Outside of my direct research activities, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I also strongly believe in the principles of open science in all aspects from open collaboration to open data. I currently serve as a [Cohere For AI](https://cohere.com/research) open science community lead to further this cause.
+Outside of my direct research activities, I love mentoring aspiring Computer Scientists, downhill skiing, tinkering with electronics, and creative writing! I also strongly believe in the principles of open science in all aspects from open collaboration to open data. I currently serve as a [Cohere Labs](https://cohere.com/research) open science community lead to further this cause.
 
-
-Note: I used to do research office hours / meetings, but I'm unfortunately currently hitting my capacity because of other commitments. So I'm taking a break for now until I have more volunteering capacity.
 
 {style="text-align: justify;"}
